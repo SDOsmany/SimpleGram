@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SimpleGram</string>
+    <string name="log_in">Log in</string>
+    <string name="Instagram">Instagram</string>
+    <string name="post">Post</string>
+    <string name="take_a_picture">Take a Picture</string>
+    <string name="logout">Logout</string>
+</resources>
