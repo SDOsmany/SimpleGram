@@ -5,4 +5,7 @@
     <string name="post">Post</string>
     <string name="take_a_picture">Take a Picture</string>
     <string name="logout">Logout</string>
+    <string name="signup">SignUp</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="already_have_an_account">Already have an Account?</string>
 </resources>
